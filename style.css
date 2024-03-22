@@ -16,6 +16,11 @@ button {
     color: white;
 }
 
+button:hover {
+    background-color: #651f71;
+    box-shadow:  0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
 .container {
     background-color: #f0f0d8;
     border-radius: 15px;
